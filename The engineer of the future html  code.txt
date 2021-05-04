@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Elon Musk, a beautiful mind.</title>
+</head>
+    
+<body>
+    
+    <div id="main">
+<!--Header Section-->
+        <header id="header">
+            <div class="header-img"></div>
+            <div id="title">
+                <h1>-The Engineer of the future-</h1>
+                <p> The man that will change the human history!</p>
+            </div>
+        </header>
+<!--Main Section-->
+        <main>
+            <div id="img-div">
+                <img id="image" class="smaller-image thick-green-border center"src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg/220px-Elon_Musk_Royal_Society_%28crop1%29.jpg" alt="Musk at the Royal Society admissions day in London, July 2018"> 
+                <div id="img-caption">
+                    <p>  "If you get up in the morning and think the future is going to be better, it is a bright day." - Elon Musk</p>
+                </div>
+            </div>
+            
+            <div id="tribute-info">
+                <div class="info-boxes">
+             <p> In 1995, Musk, his brother Kimbal, and Greg Kouri founded web software company Zip2 with funds from angel investors.They housed the venture at a small rented office in Palo Alto.The company developed and marketed an Internet city guide for the newspaper publishing industry, with maps, directions, and yellow pages.</p>
+                </div>
+                <div class="info-boxes">
+                     <p> In 2001, Musk conceived Mars Oasis: a concept to build a miniature greenhouse on Mars that would try to grow food crops and reawaken public interest in space exploration.In October 2001, Musk traveled with a group to Moscow to buy refurbished Intercontinental ballistic missiles (ICBMs) that could send the greenhouse payloads into space. He met with companies such as NPO Lavochkin and Kosmotras; however, Musk was seen as a novice and was even spat on by one of the Russian chief designers. The group returned to the United States empty-handed. In February 2002, the group returned to Russia to look for three ICBMs. They had another meeting with Kosmotras and were offered one rocket for $8 million, which Musk rejected. Musk instead decided to start a company that could build affordable rockets.With $100 million of his early fortune,Musk founded Space Exploration Technologies Corp., traded as SpaceX, in May 2002.</p>
+                </div>
+      
+               <div class="info-boxes">
+                     <p> Tesla, Inc. (originally Tesla Motors) was incorporated in July 2003 by Martin Eberhard and Marc Tarpenning, who financed the company until the Series A round of funding.Both men played active roles in the company's early development prior to Musk's involvement.Musk led the Series A round of investment in 2004, joining Tesla's board of directors as its chairman.Musk took an active role within the company and oversaw Roadster product design but was not deeply involved in day-to-day business operations.Following a series of escalating conflicts in 2007 and the 2008 financial crisis, Eberhard was ousted from the firm.Musk assumed leadership of the company as CEO and product architect in 2008.A 2009 lawsuit settlement with Eberhard designated Musk as a Tesla co-founder, along with Tarpenning and two others.As of 2019, Musk is the longest tenured CEO of any automotive manufacturer globally.</p>
+                </div>
+                <div class="info-boxes">
+                   <p>Musk is chairman of the Musk Foundation, which states its purpose is to provide solar-power energy systems in disaster areas as well as other goals.Since 2002, the foundation has made over 350 contributions. Around half were to scientific research or education nonprofits. Notable beneficiaries include the Wikimedia Foundation, his alma mater the University of Pennsylvania, and his brother Kimball's Big Green.</p>
+                </div>
+                <div class="info-boxes">
+                    <p>Musk has had multiple cameos and appearances in films such as Iron Man 2 (2010),Why Him? (2016),and Men in Black: International (2019).Television series on which he has appeared include The Simpsons (2015),The Big Bang Theory (2015),South Park (2016), and Rick and Morty (2019).He has contributed interviews to the documentaries Racing Extinction (2015) and the Werner Herzog-directed Lo and Behold (2016).</p> 
+                </div>
+              <div class="info-boxes">
+                    <p> Musk has had multiple cameos and appearances in films such as Iron Man 2 (2010),Why Him? (2016),and Men in Black: International (2019).Television series on which he has appeared include The Simpsons (2015),The Big Bang Theory (2015),South Park (2016), and Rick and Morty (2019).He has contributed interviews to the documentaries Racing Extinction (2015) and the Werner Herzog-directed Lo and Behold (2016).</p> 
+                </div>
+            </div> 
+        </main>
+<!--Footer Section-->
+        <div id="link">
+            <a>Click here to view more <a href="https://en.wikipedia.org/wiki/Elon_Musk#cite_note-4"> Elon Musk </a>information in Wikipedia.</a>
+        </div>
+    </div>
+  
+</body>
+
+</html>
